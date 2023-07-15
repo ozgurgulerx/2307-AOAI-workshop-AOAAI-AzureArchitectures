@@ -2,4 +2,4 @@
 
 # Azure Architectures for AOAI Applications 
 
-[1. AzureFunctions calling AOAI endpoints](AzureFunction-AOAI models.md)
+[1. AzureFunctions calling AOAI endpoints](AzureFunction-AOAImodels.md)
